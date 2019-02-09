@@ -20,11 +20,13 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pch.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="OpenCV4_Code.cpp">
-      <Filter>源文件</Filter>
+    <Image Include="ch01\1.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ch01\3_ImageErode.cpp">
+      <Filter>资源文件</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
