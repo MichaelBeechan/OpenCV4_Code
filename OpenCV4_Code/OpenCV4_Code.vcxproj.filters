@@ -20,12 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="ch01\1.jpg">
-      <Filter>资源文件</Filter>
-    </Image>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="ch01\3_ImageErode.cpp">
+    <ClCompile Include="ch01\7_UseCamera.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
   </ItemGroup>
